@@ -1,8 +1,15 @@
+body{
+    background-color: rgb(248, 245, 240);
+}
 .heading{
-    background-color: #fff5e6;
+    /* background-color: #fff5e6; */
     font-family: fantasy;
 }
 
+.line{
+    border-bottom: 2px solid rgb(99, 27, 27);
+    display: block;
+}
 .card{
     border: 1px solid rgb(173, 126, 126);
     border-radius: 10%;
@@ -15,14 +22,13 @@
     height: 250px;
 }
 .enqStyle{
-    /* background-color: #FCECE8; */
-    background-color: #F2FCFC;
-    width: 1000px;
     
+    background-color: #e6cca7;
+    width: 1000px;
     
 }
 
 .contact-box{
-    background-color: lightgrey;
+    
     margin-right: 68%;
 }

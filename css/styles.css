@@ -32,3 +32,11 @@ body{
     
     margin-right: 68%;
 }
+
+@media(max-width: 767px){
+    
+           display:flex;
+       flex-direction: column;
+    
+   
+  }

@@ -1,0 +1,28 @@
+.heading{
+    background-color: #fff5e6;
+    font-family: fantasy;
+}
+
+.card{
+    border: 1px solid rgb(173, 126, 126);
+    border-radius: 10%;
+}
+
+.card img{
+   
+    border-top-left-radius: 12%;
+    border-top-right-radius: 12%;
+    height: 250px;
+}
+.enqStyle{
+    /* background-color: #FCECE8; */
+    background-color: #F2FCFC;
+    width: 1000px;
+    
+    
+}
+
+.contact-box{
+    background-color: lightgrey;
+    margin-right: 68%;
+}

@@ -1,2 +1,2 @@
-# Vintage Cars
-# HTML, CSS, Bootstrap5
+# Vintage Cars website
+# using HTML, CSS, Bootstrap5
